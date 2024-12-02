@@ -1,0 +1,88 @@
+
+week 0
+Man City vs. Benfica
+Arsenal vs. Sparta Praha
+Borussia Dortmund vs. Lille
+RB Leizig vs. Sturm Graz
+Atletico Madrid vs. Celtic
+Club Brugge vs. PSV
+
+week 0
+Man City vs. Sparta Praha
+Benfica vs. Lille
+Arsenal vs. Sturm Graz
+Borussia Dortmund vs. Celtic
+RB Leizig vs. PSV
+Atletico Madrid vs. Club Brugge
+
+week 0
+Man City vs. Lille
+Sparta Praha vs. Sturm Graz
+Benfica vs. Celtic
+Arsenal vs. PSV
+Borussia Dortmund vs. Club Brugge
+RB Leizig vs. Atletico Madrid
+
+week 0
+Man City vs. Sturm Graz
+Lille vs. Celtic
+Sparta Praha vs. PSV
+Benfica vs. Club Brugge
+Arsenal vs. Atletico Madrid
+Borussia Dortmund vs. RB Leizig
+
+week 0
+Man City vs. Celtic
+Sturm Graz vs. PSV
+Lille vs. Club Brugge
+Sparta Praha vs. Atletico Madrid
+Benfica vs. RB Leizig
+Arsenal vs. Borussia Dortmund
+
+week 0
+Man City vs. PSV
+Celtic vs. Club Brugge
+Sturm Graz vs. Atletico Madrid
+Lille vs. RB Leizig
+Sparta Praha vs. Borussia Dortmund
+Benfica vs. Arsenal
+
+week 0
+Man City vs. Club Brugge
+PSV vs. Atletico Madrid
+Celtic vs. RB Leizig
+Sturm Graz vs. Borussia Dortmund
+Lille vs. Arsenal
+Sparta Praha vs. Benfica
+
+week 0
+Man City vs. Atletico Madrid
+Club Brugge vs. RB Leizig
+PSV vs. Borussia Dortmund
+Celtic vs. Arsenal
+Sturm Graz vs. Benfica
+Lille vs. Sparta Praha
+
+week 0
+Man City vs. RB Leizig
+Atletico Madrid vs. Borussia Dortmund
+Club Brugge vs. Arsenal
+PSV vs. Benfica
+Celtic vs. Sparta Praha
+Sturm Graz vs. Lille
+
+week 0
+Man City vs. Borussia Dortmund
+RB Leizig vs. Arsenal
+Atletico Madrid vs. Benfica
+Club Brugge vs. Sparta Praha
+PSV vs. Lille
+Celtic vs. Sturm Graz
+
+week 0
+Man City vs. Arsenal
+Borussia Dortmund vs. Benfica
+RB Leizig vs. Sparta Praha
+Atletico Madrid vs. Lille
+Club Brugge vs. Sturm Graz
+PSV vs. Celtic
